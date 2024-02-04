@@ -1,8 +1,9 @@
 # Weather Info
-### This is a simple weather application built using React.js, JavaScript, HTML, CSS, and OpenWeatherMap Api. 
-### It allows users to check the current weather conditions for a specific location, as well as a 5-day forecast. 
-### The app retrieves data from OpenWeatherMap Api and displays it in a user-friendly interface.
-
+<ul>
+<li>### This is a simple weather application built using React.js, JavaScript, HTML, CSS, and OpenWeatherMap API.</li>
+<li>### It allows users to check the current weather conditions for a specific location, as well as a 5-day forecast.</li>
+<li>### The app retrieves data from OpenWeatherMap API and displays it in a user-friendly interface.</li>
+</ul>
 ## Features:
 <ul>
 <li>Current weather information display (temperature, humidity, wind speed, etc.)</li>
@@ -17,7 +18,7 @@
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>OpenWeatherMap Api</li>
+  <li>OpenWeatherMap API</li>
 </ul>
 
 ## How to Run:
