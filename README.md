@@ -4,6 +4,7 @@
 <li><b>It allows users to check the current weather conditions for a specific location, as well as a 5-day forecast.</b></li>
 <li><b>The app retrieves data from OpenWeatherMap API and displays it in a user-friendly interface.</b></li>
 </ul>
+
 ## Features:
 <ul>
 <li>Current weather information display (temperature, humidity, wind speed, etc.)</li>
