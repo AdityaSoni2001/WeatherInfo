@@ -23,6 +23,7 @@
 </ul>
 
 ## How to Run:
+### `git clone https://github.com/AdityaSoni2001/WeatherInfo.git`
 ### `npm install`
 ### `npm start`
 
