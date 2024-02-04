@@ -24,6 +24,7 @@
 
 ## How to Run:
 ### `git clone https://github.com/AdityaSoni2001/WeatherInfo.git`
+### `cd WeatherInfo`
 ### `npm install`
 ### `npm start`
 
